@@ -1,0 +1,42 @@
+Script began: Thu Mar 15 15:00:14 PDT 2018
+Node: compute-13-7.local
+Current directory: /data/users/jbhanush/IS/OMP_MATLAB
+
+=== Running 5 trials of Mergesort on 10 million elements ... ===
+*** Trial 1 ***
+
+ans =
+
+   1.8050e+05
+
+Elapsed time is 1.004924 seconds.
+*** Trial 2 ***
+
+ans =
+
+   1.8050e+05
+
+Elapsed time is 0.971966 seconds.
+*** Trial 3 ***
+
+ans =
+
+   1.8050e+05
+
+Elapsed time is 1.011851 seconds.
+*** Trial 4 ***
+
+ans =
+
+   1.8050e+05
+
+Elapsed time is 0.971813 seconds.
+*** Trial 5 ***
+
+ans =
+
+   1.8050e+05
+
+Elapsed time is 0.973346 seconds.
+
+=== Done! ===
